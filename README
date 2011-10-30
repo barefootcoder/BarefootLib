@@ -1,0 +1,20 @@
+DO NOT USE THIS CODE.
+
+It is:
+
+*) old, and potentially crappy.
+*) utterly unmaintained.
+*) strictly for illustrative and/or historical purposes.
+*) somewhat restrictively licensed.
+
+That having been said, if you absolutely *must* steal it and do something with it, please refer to
+the LICENSE file.
+
+
+This is the extraction of _just_ the Barefoot libraries from the T3Tools repo.  They're useful
+separate from T3Tools anyway.  Most of them are _really_ old.  Some of them are pretty awful.  They
+reflect what was essentially a Perl novice's way of looking at libraries (and a Perl novice from a
+C++ background at that), so they don't always do things in a vey Perlish way.  Or a very sane way,
+for that matter.  Caveat codor.
+
+But don't use this code.
